@@ -1,0 +1,6 @@
+C:\Users\Lasse Grønbech\source\repos\HotelRestService\HotelModels\bin\Debug\HotelModels.dll
+C:\Users\Lasse Grønbech\source\repos\HotelRestService\HotelModels\bin\Debug\HotelModels.pdb
+C:\Users\Lasse Grønbech\source\repos\HotelRestService\HotelModels\obj\Debug\HotelModels.csprojAssemblyReference.cache
+C:\Users\Lasse Grønbech\source\repos\HotelRestService\HotelModels\obj\Debug\HotelModels.csproj.CoreCompileInputs.cache
+C:\Users\Lasse Grønbech\source\repos\HotelRestService\HotelModels\obj\Debug\HotelModels.dll
+C:\Users\Lasse Grønbech\source\repos\HotelRestService\HotelModels\obj\Debug\HotelModels.pdb
